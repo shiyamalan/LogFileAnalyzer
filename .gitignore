@@ -1,0 +1,12 @@
+
+#Eclipse Setting Directory and Files
+.settings/
+*.project
+
+
+#Maven Build Directory
+target/
+
+#Eclipse Class Path 
+*.classpath
+

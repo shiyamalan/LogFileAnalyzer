@@ -1,0 +1,2 @@
+mvn install:install-file -Dfile=E:\Dev\Gemini\MailService\target\MailService-0.0.1-SNAPSHOT-jar-with-dependencies.jar -DgroupId=se.cambio.mailservice -DartifactId=MailService -Dversion=0.0.1-SNAPSHOT -Dpackaging=jar
+& mvn clean compile assembly:single
